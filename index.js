@@ -26,3 +26,4 @@ btnTwo.addEventListener("click", ()=> {
    console.log(changeTwo.textContent)
    console.log(changeTwo.innerHTML)
 })
+
